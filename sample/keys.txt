@@ -1,0 +1,10 @@
+<SamplePlural>
+<samplePlural>
+<SampleSingle>
+<sampleSingle>
+<SAMPLE_PLURAL_CONST>
+<SAMPLE_SINGLE_CONST>
+<PROJECT_MODULE_NAME>
+<PERMISSION_FEATURE>
+<i18nNamespace>
+<urlResourcePath>
